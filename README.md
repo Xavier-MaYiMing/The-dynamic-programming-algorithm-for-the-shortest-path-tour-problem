@@ -22,7 +22,7 @@ The shortest path tour problem aims to find the shortest path that traverses mul
 
 #### Example
 
-![](/Users/xavier/Desktop/Xavier Ma/个人算法主页/The Dynamic Programming Algorithm for the Shortest Path Tour Problem/SPTP example.png)
+![](https://github.com/Xavier-MaYiMing/The-dynamic-programming-algorithm-for-the-shortest-path-tour-problem)
 
 The SPTP example has four disjoint node subsets: $\{0\}, \{1, 3\}, \{4, 5\}, \{6\}$. The aim is to find the shortest path from node 0 to node 6 that traverse at least one node in $\{1, 3\}$ and $\{4, 5\}$. The optimal solution of the SPTP is $0\rightarrow3\rightarrow4\rightarrow6$.
 

@@ -22,7 +22,7 @@ Three different label extracting strategies:
 | label_set     | All generated labels                                         |
 | label         | label[n] denotes all labels of node n                        |
 | best_solution | The best solution ever found                                 |
-| delta         | The length of the best solution                              |
+| delta         | The length of best_solution                                  |
 
 ----
 
